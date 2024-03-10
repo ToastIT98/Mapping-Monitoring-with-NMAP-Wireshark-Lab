@@ -9,5 +9,9 @@ Salutations!
   using windows 7 OS which is an OS that has reached its end of life and no longer recieves security updates therefore highly vulnerable to attacks. 
 
   I provide further detail and images to my work in the C844-Task 1 file I included.
+
+  Task 2 is more of a paper then a lab and the task was to describe the vulnerabilities in WLAN and Mobile Device Management in a provided scenario.
+  Then I had to provide a solution to mitigate the vulnerabilities, provide preventative measures and provide a mobile device management solution such
+  as Bring Your Own Device (BYOD) which fell in line the the fake companies needs and limitations. 
   
   
